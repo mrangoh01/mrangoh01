@@ -1,4 +1,4 @@
-## 👋👋👋👋
+## 👋👋👋
 
 💬 **Network, Linux, and Automation**  
 🛠️ JavaScript, Python, and Bash scripting  
