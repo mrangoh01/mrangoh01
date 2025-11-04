@@ -22,5 +22,3 @@
 </p>
 
 ---
-
-⭐️ *“Interested in network, Linux, and automation.”*
